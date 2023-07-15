@@ -11,4 +11,43 @@ Overview
 -Ring
 
 Star
-	As it emplies
+	As it emplies it looks like a star like layout.
+	All of the computers are connected to the main central hub to get the internet access.
+	It is a single point of access the main central hub was to be removed, then all of the devices will have no access to the internet.
+	The central hub manages the flow of data traffice whithin the network by receiving data packets from one device and transmitting them tot he intended destination device.
+
+	+ cheap and easy to manage for a home network.
+	+ small to medium-sized networks
+
+	- single point of failure when the main hub is offline.
+
+Self questions to understand more about the type of network:
+
+Q. What cable is used for devices in the star topology?
+A. Ethernet Cable
+
+Q. Which device commonly manages "the flow of data" in a star topology?
+A. Switch (The key part here is that even though it is all in one hub) the Switch is the part the manages the flow of traffice within the topology.
+
+Q. How does a star topology handle network congestion?
+A. It can isolate congestion to specific devices while leaving the other devices remain unaffected. (providing you have enough bandwidth and the task you are doing)
+
+Q. In a star topology, if one device fails, what happens to the rest of the network?
+A. The network continues to function, unaffected by the failure of a single device.
+
+Q. What is the main advantage of a star topology?
+A. Easy to add or remove devices without affecting other devices.
+A. Lower cost compared to other topologies.
+
+Q. Can a star topology support wireless connections?
+A. Yes, wireless connections can be used in addition to wired connections.
+
+Q. Which of the following best describes a star topology?
+A. All devices are connected to a central hub.
+
+Q. Which network topology is commonly used in home and small office environments?
+A. Star topology.
+
+Q. What is the central device in a star topology called?
+A. Hub
+
