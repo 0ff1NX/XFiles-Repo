@@ -1,16 +1,4 @@
-Overview
-
-	There are many types of Networks that are each quite unique and very interesting in what they each do.
-
--Star
--Tree / aka Extended STAR
--Mesh
--Partial Mesh
--Line
--Bus
--Ring
-
-Star
+Star Topology
 	As it emplies it looks like a star like layout.
 	All of the computers are connected to the main central hub to get the internet access.
 	It is a single point of access the main central hub was to be removed, then all of the devices will have no access to the internet.
