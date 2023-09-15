@@ -2,7 +2,7 @@
 
 Welcome to my homepage where I will share my works. It will be a learning path guide of my ups and downs so will have constant attention and iterations along the way.
 
-Please go to: https://x-library.gitbook.io/x-library/ where you will the code content within my KB Library I have created and continually will work on.
+Please go to: https://x-library.gitbook.io/x-library/ where you will find my KB Library I have created and continually will work on.
 
 If you find the content useful, drop me a thank you on my twitter or donate me a coffee.
 
