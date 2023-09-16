@@ -10,6 +10,16 @@
 
 * [Login Switcher](steam-scripts/login-switcher.md)
 
-## Group 1
+## Other
 
-* [Useful Tools & Apps](group-1/useful-tools-and-apps.md)
+* [Useful Tools & Apps](other/useful-tools-and-apps.md)
+
+## CTF
+
+* [Pico CTF](ctf/pico-ctf/README.md)
+  * [ARMssembly 0](ctf/pico-ctf/armssembly-0.md)
+
+## OS Modifications
+
+* [Win 10](os-modifications/win-10.md)
+* [Win 11](os-modifications/win-11.md)
