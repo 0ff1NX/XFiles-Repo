@@ -28,3 +28,7 @@
 
 * [Splunk](software/splunk.md)
 * [MS Defender](software/ms-defender.md)
+
+## Playbook
+
+* [Incident Response Playbooks](playbook/incident-response-playbooks.md)
