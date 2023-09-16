@@ -5,3 +5,7 @@
 ## Pfense
 
 * [Setting up pfsense](pfense/setting-up-pfsense.md)
+
+## Steam Scripts
+
+* [Login Switcher](steam-scripts/login-switcher.md)
