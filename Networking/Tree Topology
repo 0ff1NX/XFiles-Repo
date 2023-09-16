@@ -1,9 +1,0 @@
-Tree Topology
-	The tree network topology, also known as the herarchical topology or a tree structure.
-	It combines elements of both bus and star topologies.
-
-	In a tree network, devices are arranged in a herarchical manner, the root node at the top and multple levels of child nodes brandching out from the root. Each level of nodes can have multiple child nodes connected to it, forming a branch like structure. The leaf nodes are the devices or endpoints that are connnected to the lowest level of the hierarchy.
-
-	The root node is the critical central point of the network and is usually a high-performanace device sucha as amain server, hub, or switch. It acts as a central point of control and managest eh communication between the nodes in the network. From the root node, data and infromation flow down the tree structure to the respective child nodes.
-
-+	Scalability 
