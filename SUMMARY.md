@@ -19,7 +19,12 @@
 * [Pico CTF](ctf/pico-ctf/README.md)
   * [ARMssembly 0](ctf/pico-ctf/armssembly-0.md)
 
-## OS Modifications
+## Operating Systems
 
-* [Win 10](os-modifications/win-10.md)
-* [Win 11](os-modifications/win-11.md)
+* [Win 10](operating-systems/win-10.md)
+* [Win 11](operating-systems/win-11.md)
+
+## Software
+
+* [Splunk](software/splunk.md)
+* [MS Defender](software/ms-defender.md)
