@@ -9,3 +9,7 @@
 ## Steam Scripts
 
 * [Login Switcher](steam-scripts/login-switcher.md)
+
+## Group 1
+
+* [Useful Tools & Apps](group-1/useful-tools-and-apps.md)
