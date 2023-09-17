@@ -131,12 +131,30 @@ I would recommend to change the LAN IP to prevent people to attempt to attack yo
 
 
 
-
-
 After theses changes since we are not longer using the default IP we will need to release the IP address and get a new one. You can do this on windows with the following commands:
 
 ```
 ipconfig /release
 ipconfig /renew
 ```
+
+
+
+{% hint style="info" %}
+I am not sure if just me or the VM as the WAN keeps dropping when I am connected on my network.
+{% endhint %}
+
+Some common ports I think should be open on the WAN interface to allow internet access:
+
+Port 80 HTTP
+
+Port 443 HTTPS
+
+Port 53 DNS
+
+
+
+{% hint style="info" %}
+On reading some forums, some people have had issues with DNS and DHCP resolvers.
+{% endhint %}
 
