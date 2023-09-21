@@ -32,7 +32,3 @@
 ## Playbook
 
 * [Incident Response Playbooks](playbook/incident-response-playbooks.md)
-
-## Other Self Studies
-
-* [Other Self Studies](other-self-studies/other-self-studies.md)
