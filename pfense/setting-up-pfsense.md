@@ -10,7 +10,7 @@ download from page: [https://www.pfsense.org/download/](https://www.pfsense.org/
 
 In a simple setup, basically this is my current aims of the network. This can be put in any type of network to change the flow of traffic moving from one device to another.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 ## Downloading the files
 
@@ -39,9 +39,13 @@ For me it came in as .gz file , just extract with a file archiver like 7zip to g
 
 So within Vmware for me it was a simple choose a new virtual machine and choose the extracted iso disc file.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
-Then I kept hitting next till the end.
+Then I kept hitting next till the end.\
+
+
+Make sure you allocate enough resources for the machine otherwise I have had strange issues so as a minimum allocate the following settings:\
+![](../.gitbook/assets/image.png)
 
 Wait a short amount of time for it to boot up.
 
@@ -125,11 +129,9 @@ You can just hit next for the quick complete setup.
 
 ![](<../.gitbook/assets/image (17).png>)
 
-I would recommend to change the LAN IP to prevent people to attempt to attack you.
+I would recommend to change the LAN IP to prevent people to attempting to attack you.
 
 ![](<../.gitbook/assets/image (16).png>)
-
-
 
 After theses changes since we are not longer using the default IP we will need to release the IP address and get a new one. You can do this on windows with the following commands:
 
@@ -138,23 +140,9 @@ ipconfig /release
 ipconfig /renew
 ```
 
+\
+You are now all setup as a minimum requirement, now depending on what you are looking to setup it is up to you. So on my next article I will show you my current test setup that can give you some ideas.
 
+If this content helps or you have some feedback, do not hesitate and reach out to me on [X](https://twitter.com/xSamChau) or formally known as [Twitter](https://twitter.com/xSamChau).
 
-{% hint style="info" %}
-I am not sure if just me or the VM as the WAN keeps dropping when I am connected on my network.
-{% endhint %}
-
-Some common ports I think should be open on the WAN interface to allow internet access:
-
-Port 80 HTTP
-
-Port 443 HTTPS
-
-Port 53 DNS
-
-
-
-{% hint style="info" %}
-On reading some forums, some people have had issues with DNS and DHCP resolvers.
-{% endhint %}
-
+\
