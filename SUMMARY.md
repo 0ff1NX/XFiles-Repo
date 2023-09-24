@@ -5,6 +5,7 @@
 ## Pfense
 
 * [Setting up pfsense](pfense/setting-up-pfsense.md)
+* [Ports](pfense/ports.md)
 
 ## Steam Scripts
 
