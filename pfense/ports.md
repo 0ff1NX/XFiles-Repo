@@ -16,13 +16,27 @@ There is a lot of different types of services and each port is special in its ow
 
 ## Ports
 
-| Port Number |   |   |
-| ----------- | - | - |
-|             |   |   |
-|             |   |   |
-|             |   |   |
+| Port Number | Service            | Protocol |
+| ----------- | ------------------ | -------- |
+| 20-21       | FTP                | TCP      |
+| 22          | SSH                | TCP      |
+| 23          | Telnet             |          |
+| 25          | SMTP               |          |
+| 53          | DNS                | TCP/UDP  |
+| 123         | NTP                | UDP      |
+|             |                    |          |
+|             |                    |          |
+| 445         | SMB/Cifs           |          |
+| 500         | SIP                | UDP      |
+| 993         | IMAPS              | TCP      |
+| 3389        | RDP                | TCP      |
+| 8080        | Web Server Traffic |          |
 
+Common Ports 1 to 1,023.
 
+Registered Ports 1,024 to 49,151.&#x20;
+
+Dynamic and/or private ports 49,152 to 65535
 
 
 
