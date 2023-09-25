@@ -24,7 +24,7 @@ There is a lot of different types of services and each port is special in its ow
 | 25          | SMTP               |          |
 | 53          | DNS                | TCP/UDP  |
 | 123         | NTP                | UDP      |
-|             |                    |          |
+| 110         | POP3               |          |
 |             |                    |          |
 | 445         | SMB/Cifs           |          |
 | 500         | SIP                | UDP      |
