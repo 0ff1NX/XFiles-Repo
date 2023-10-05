@@ -33,7 +33,7 @@
 ## Playbooks
 
 * [Template](playbooks/template.md)
-* [Category 1](playbooks/category-1/README.md)
+* [Category 1](playbook/incident-response-playbooks.md)
   * [Page](playbooks/category-1/page.md)
 
 ## APT Campagins
@@ -47,3 +47,7 @@
     * [Star](self-learning/networking/lan-and-wan/star.md)
     * [Tree](self-learning/networking/lan-and-wan/tree.md)
     * [Mesh](self-learning/networking/lan-and-wan/mesh.md)
+    * [Line](self-learning/networking/lan-and-wan/line.md)
+    * [Bus](self-learning/networking/lan-and-wan/bus.md)
+    * [Ring](self-learning/networking/lan-and-wan/ring.md)
+  * [OSI](self-learning/networking/osi.md)
