@@ -10,7 +10,7 @@ The **Central Hub** acts as the central point of connection and services communi
 
 Each device in the network, such as computers, printers, or servers are connected directly to the **Central Hub** using separate network cables / Wi-Fi.
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (5).png>)
 
 The easy way to think of this type of network is like your Internet at home.
 

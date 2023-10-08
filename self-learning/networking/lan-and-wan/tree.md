@@ -12,7 +12,7 @@ the flow of data flows from a unidirectional from the root node to the leaf node
 
 The ends are leaf nodes. The lowest level.
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 The tree topology provides many advantages:
 

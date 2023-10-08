@@ -10,7 +10,7 @@ download from page: [https://www.pfsense.org/download/](https://www.pfsense.org/
 
 In a simple setup, basically this is my current aims of the network. This can be put in any type of network to change the flow of traffic moving from one device to another.
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 ## Downloading the files
 
@@ -39,13 +39,13 @@ For me it came in as .gz file , just extract with a file archiver like 7zip to g
 
 So within Vmware for me it was a simple choose a new virtual machine and choose the extracted iso disc file.
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 Then I kept hitting next till the end.\
 
 
 Make sure you allocate enough resources for the machine otherwise I have had strange issues so as a minimum allocate the following settings:\
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 Wait a short amount of time for it to boot up.
 
@@ -53,17 +53,17 @@ Wait a short amount of time for it to boot up.
 Quick coffee break while it install and boots up.
 {% endhint %}
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 Keep hitting next until you get to:
 
 
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 Press the **Space Bar** to select the hard drive you want to save into.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 Are you sure you want to delete all the files. Yes
 
@@ -71,7 +71,7 @@ Are you sure you want to delete all the files. Yes
 Coffee break while it configures what you put in and installs the software on the allocated space you provided for it.
 {% endhint %}
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 Right its all setup, but not fully configured.
 
