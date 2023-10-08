@@ -52,3 +52,4 @@
     * [Ring](self-learning/networking/lan-and-wan/ring.md)
   * [OSI](self-learning/networking/osi.md)
   * [Routers](self-learning/networking/routers.md)
+  * [Ports](self-learning/networking/ports.md)
