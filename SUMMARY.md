@@ -30,27 +30,6 @@
 * [Splunk](software/splunk.md)
 * [MS Defender](software/ms-defender.md)
 
-## Playbooks
+## SOC & IR
 
-* [Template](playbooks/template.md)
-* [Category 1](playbook/incident-response-playbooks.md)
-  * [Page](playbooks/category-1/page.md)
-
-## APT Campagins
-
-* [Page 1](apt-campagins/page-1.md)
-
-## Self-Learning
-
-* [Networking](self-learning/networking/README.md)
-  * [LAN and WAN](self-learning/networking/lan-and-wan/README.md)
-    * [Star](self-learning/networking/lan-and-wan/star.md)
-    * [Tree](self-learning/networking/lan-and-wan/tree.md)
-    * [Mesh](self-learning/networking/lan-and-wan/mesh.md)
-    * [Line](self-learning/networking/lan-and-wan/line.md)
-    * [Bus](self-learning/networking/lan-and-wan/bus.md)
-    * [Ring](self-learning/networking/lan-and-wan/ring.md)
-  * [OSI](self-learning/networking/osi.md)
-  * [Routers](self-learning/networking/routers.md)
-  * [Ports](self-learning/networking/ports.md)
-* [Cryptography](self-learning/cryptography.md)
+* [False Positives](soc-and-ir/false-positives.md)
