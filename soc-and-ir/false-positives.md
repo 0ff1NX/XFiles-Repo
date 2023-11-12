@@ -44,4 +44,16 @@ If start looking into the other tabs it will give you more information about the
 
 </div>
 
-Explore the other pages and they are quite explantory in the items it shows.
+Explore the other pages and they are quite explanatory in the items it shows.
+
+
+
+## Verdict
+
+AV helps piece a part of the story but cannot confirm the content is malicious.&#x20;
+
+An example like a remote tool used by the IT that is legit.&#x20;
+
+There is no one all solution that confirms something is correct as they will change depending on the nature of the content so you need to keep your eyes peeled to look out for the information as it could even by one typo from the verified publisher that might be wrong.
+
+It all depends on the intent of the actor.
